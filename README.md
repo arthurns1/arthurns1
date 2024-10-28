@@ -1,6 +1,7 @@
 ### Olá! me chamo José Arthur Nascimento Santos🤓☝️
 
-![arthurns1's Stats](https://github-readme-stats.vercel.app/api?username=arthurns1&theme=vue&show_icons=true&hide_border=true&count_private=true)
+![arthurns1's Stats](https://github-readme-stats.vercel.app/api?username=arthurns1&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
+![arthurns1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurns1&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
 
 ### Tecnologias que Ultilizo:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
