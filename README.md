@@ -1,16 +1,13 @@
- Olá, me chamo José Arthur 🤓☝️
+### Olá! me chamo José Arthur Nascimento Santos🤓☝️
 
-<!--
-**arthurns1/arthurns1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![arthurns1's Stats](https://github-readme-stats.vercel.app/api?username=arthurns1&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-Here are some ideas to get you started:
+### Tecnologias que ultilizo
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante e apaixonado por programação, e atualmente cursando técnico em informática no Instituto Federal do Rio grande do Norte(IFRN)
